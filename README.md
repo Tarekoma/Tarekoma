@@ -43,16 +43,16 @@ Turning Data into Insights • Dashboards • Decision Support
 ---
 
 ### 💼 Experience
-**Data Analyst Intern — Digital Egypt Pioneers Initiative (DEPI)**  
-*EYOUTH | Oct 2024 – May 2025*  
-- Collected, cleaned, and analyzed large datasets to extract actionable insights  
-- Built **interactive Power BI dashboards** for business decision support  
-- Defined KPIs and developed data models with cross-functional teams  
-
 **Business Intelligence Intern — ITI Summer Training**  
 *Jun 2025 – Jul 2025*  
 - Worked on **SQL, data warehousing, and ETL processes**  
 - Used **SSIS, SSAS, SSRS** to build BI solutions  
 - Designed dashboards using **Power BI, Excel, and Tableau**
+
+**Data Analyst Intern — Digital Egypt Pioneers Initiative (DEPI)**  
+*EYOUTH | Oct 2024 – May 2025*  
+- Collected, cleaned, and analyzed large datasets to extract actionable insights  
+- Built **interactive Power BI dashboards** for business decision support  
+- Defined KPIs and developed data models with cross-functional teams  
 
 ---
