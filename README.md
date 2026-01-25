@@ -1,6 +1,6 @@
 <img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-<h2 align="center">Hi, I'm Tarek Omar 👋</h2>
+<h2 align="center">Hi, I'm Eng. Tarek Omar 👋</h2>
 
 <h3 align="center">
 Data Analyst | Aspiring Data Scientist | Power BI • SQL • Python
