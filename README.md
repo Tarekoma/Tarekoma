@@ -49,6 +49,7 @@ Turning Data into Insights • Dashboards • Decision Support
 - Used **SSIS, SSAS, SSRS** to build BI solutions  
 - Designed dashboards using **Power BI, Excel, and Tableau**
 
+
 **Data Analyst Intern — Digital Egypt Pioneers Initiative (DEPI)**  
 *EYOUTH | Oct 2024 – May 2025*  
 - Collected, cleaned, and analyzed large datasets to extract actionable insights  
