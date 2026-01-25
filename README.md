@@ -32,22 +32,12 @@ Turning Data into Insights • Dashboards • Decision Support
 ---
 
 ### 🛠 Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
-</p>
+<p align="center"> <!-- Power BI --> <img src="https://img.icons8.com/color/48/power-bi.png" height="45" title="Power BI"/> <!-- Excel --> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="45" title="Microsoft Excel"/> <!-- SQL Server --> <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="45" title="SQL Server"/> <!-- Visual Studio --> <img src="https://img.icons8.com/color/48/visual-studio--v2.png" height="45" title="Visual Studio"/> <!-- Python --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python"/> <!-- Jupyter Notebook --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" title="Jupyter Notebook"/> </p>
 
 **Tools & Platforms**
-- Power BI, Excel, Tableau  
+- Power BI, Excel  
 - SQL (Advanced Queries), SSIS, SSAS, SSRS  
-- FastAPI, Streamlit  
+- FastAPI, Streamlit, RAG 
 - Visual Studio, Microsoft Office  
 
 ---
@@ -66,43 +56,3 @@ Turning Data into Insights • Dashboards • Decision Support
 - Designed dashboards using **Power BI, Excel, and Tableau**
 
 ---
-
-### 📊 Featured Projects
-🔹 **Store Sales Dashboard**  
-- Analyzed **9,800 orders & 793 customers** with $2M+ sales  
-- KPI cards, drill-downs, dynamic slicers  
-🔗 https://github.com/Tarekoma/Store-Sales-Project.git
-
-🔹 **Road Accidents Analysis**  
-- Multi-country accident dataset analysis  
-- Optimized DAX measures & trend analysis  
-🔗 https://github.com/Tarekoma/Road-Accident-Analysis.git
-
-🔹 **Customer Review Analysis Dashboard**  
-- 200+ reviews across 42 products  
-- Sentiment analysis & Excel dashboards  
-🔗 https://github.com/Tarekoma/Customer-Review-Analysis.git
-
-🔹 **Brain Tumor Classification (Deep Learning)**  
-- MobileNet model with **96.5% accuracy**  
-- FastAPI deployment for real-time inference  
-🔗 https://github.com/Tarekoma/Brain-Tumor-MRI-Classification-System.git
-
-🔹 **University Bylaws Chatbot (RAG System)**  
-- NLP + ChromaDB + multilingual embeddings  
-- Streamlit deployment with source citations  
-🔗 https://github.com/Tarekoma/University-bylaws-Chatbot-for-students.git
-
----
-
-### 📜 Certifications
-- ITI – Business Intelligence  
-- Introduction to Deep Learning (DataCamp)  
-- AI & ML Foundations  
-- Quantum Computing Foundations  
-
----
-
-<p align="center">
-✨ Data-driven thinking | Clean analytics | Impactful insights ✨
-</p>
