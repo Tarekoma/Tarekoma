@@ -3,7 +3,7 @@
 <h2 align="center">Hi, I'm Tarek Omar 👋</h2>
 
 <h3 align="center">
-Data Analyst | Business Intelligence | Power BI • SQL • Python
+Data Analyst | Aspiring Data Scientist | Power BI • SQL • Python
 </h3>
 
 <p align="center">
