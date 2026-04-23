@@ -12,8 +12,11 @@ Turning Data into Insights • Dashboards • Decision Support
 
 ### 📬 Contact Me
 <p align="center">
-  <a href="https://github.com/Tarekoma/">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://wa.me/201114462535">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://t.me/+201114462535">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tarek-omar-923896297/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
